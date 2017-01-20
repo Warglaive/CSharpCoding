@@ -1,0 +1,6 @@
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\XmassTree\bin\Debug\XmassTree.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\XmassTree\bin\Debug\XmassTree.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\XmassTree\bin\Debug\XmassTree.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\XmassTree\obj\Debug\XmassTree.csprojResolveAssemblyReference.cache
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\XmassTree\obj\Debug\XmassTree.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\XmassTree\obj\Debug\XmassTree.pdb

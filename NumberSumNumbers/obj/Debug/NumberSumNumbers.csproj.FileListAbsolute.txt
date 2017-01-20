@@ -1,0 +1,6 @@
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\NumberSumNumbers\bin\Debug\NumberSumNumbers.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\NumberSumNumbers\bin\Debug\NumberSumNumbers.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\NumberSumNumbers\bin\Debug\NumberSumNumbers.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\NumberSumNumbers\obj\Debug\NumberSumNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\NumberSumNumbers\obj\Debug\NumberSumNumbers.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\NumberSumNumbers\obj\Debug\NumberSumNumbers.pdb

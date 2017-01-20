@@ -1,0 +1,6 @@
+c:\users\attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\10x10Stars\bin\Debug\10x10Stars.exe.config
+c:\users\attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\10x10Stars\bin\Debug\10x10Stars.exe
+c:\users\attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\10x10Stars\bin\Debug\10x10Stars.pdb
+c:\users\attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\10x10Stars\obj\Debug\10x10Stars.csprojResolveAssemblyReference.cache
+c:\users\attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\10x10Stars\obj\Debug\10x10Stars.exe
+c:\users\attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\10x10Stars\obj\Debug\10x10Stars.pdb
