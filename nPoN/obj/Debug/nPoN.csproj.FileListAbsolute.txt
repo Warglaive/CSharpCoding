@@ -1,0 +1,6 @@
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\nPoN\bin\Debug\nPoN.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\nPoN\bin\Debug\nPoN.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\nPoN\bin\Debug\nPoN.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\nPoN\obj\Debug\nPoN.csprojResolveAssemblyReference.cache
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\nPoN\obj\Debug\nPoN.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\nPoN\obj\Debug\nPoN.pdb

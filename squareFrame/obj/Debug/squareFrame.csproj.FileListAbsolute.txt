@@ -1,0 +1,6 @@
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\squareFrame\bin\Debug\squareFrame.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\squareFrame\bin\Debug\squareFrame.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\squareFrame\bin\Debug\squareFrame.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\squareFrame\obj\Debug\squareFrame.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\squareFrame\obj\Debug\squareFrame.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\squareFrame\obj\Debug\squareFrame.csprojResolveAssemblyReference.cache

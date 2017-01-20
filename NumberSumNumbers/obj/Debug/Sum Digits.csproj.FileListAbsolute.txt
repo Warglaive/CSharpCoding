@@ -1,0 +1,3 @@
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\NumberSumNumbers\bin\Debug\NumberSumNumbers.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\NumberSumNumbers\obj\Debug\NumberSumNumbers.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\NumberSumNumbers\obj\Debug\NumberSumNumbers.pdb
