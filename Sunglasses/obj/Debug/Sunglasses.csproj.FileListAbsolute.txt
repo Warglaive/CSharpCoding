@@ -1,0 +1,6 @@
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\Sunglasses\bin\Debug\Sunglasses.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\Sunglasses\bin\Debug\Sunglasses.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\Sunglasses\bin\Debug\Sunglasses.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\Sunglasses\obj\Debug\Sunglasses.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\DrawningFiguresWithLoops\Sunglasses\obj\Debug\Sunglasses.pdb
