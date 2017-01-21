@@ -1,3 +1,3 @@
 # GitHubTraining
 TechModule HomeWorks And Stuff
-MainBranchEDit
+MainBranchEDitBranchConflictResolved
