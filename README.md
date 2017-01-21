@@ -1,2 +1,2 @@
-# CSharpCoding
+# GitHubTraining
 TechModule HomeWorks And Stuff
