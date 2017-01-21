@@ -1,2 +1,1 @@
-# GitHubTrainingCONFLICT1
-TechModule HomeWorks And Stuff
+GitHubTrainingConflictFixedTechModule HomeWorks And Stuff
